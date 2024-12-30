@@ -56,6 +56,19 @@ Links to popular platforms with easily recognizable icons.
 
 outputs:
 ![Screenshot 2024-12-31 004130](https://github.com/user-attachments/assets/5ba35ebe-cbe1-4da0-bc15-14348ea5020b)
+![Screenshot 2024-12-31 004152](https://github.com/user-attachments/assets/6b8a5e9f-2948-43e1-b0d2-ad281bd262a8)
+![Screenshot 2024-12-31 004217](https://github.com/user-attachments/assets/632c6fdf-b46a-4ef6-90ea-efa5535132dd)
+![Screenshot 2024-12-31 004239](https://github.com/user-attachments/assets/192c7849-45f2-4a5d-b58a-e570b6e8637f)
+![Screenshot 2024-12-31 004308](https://github.com/user-attachments/assets/85241727-aa91-48d0-85bf-b1179b15bbbc)
+![Screenshot 2024-12-31 004340](https://github.com/user-attachments/assets/6252d625-802a-4237-a70d-c09a428be63f)
+
+
+
+
+
+
+
+
 
 
 
