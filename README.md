@@ -53,3 +53,9 @@ Contact Options:
 Multiple ways to reach out (form, email, phone, address).
 Social Media Integration:
 Links to popular platforms with easily recognizable icons.
+
+outputs:
+![Screenshot 2024-12-31 004130](https://github.com/user-attachments/assets/5ba35ebe-cbe1-4da0-bc15-14348ea5020b)
+
+
+
